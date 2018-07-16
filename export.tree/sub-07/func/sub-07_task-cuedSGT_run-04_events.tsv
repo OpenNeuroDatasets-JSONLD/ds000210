@@ -1,0 +1,31 @@
+onset	duration	IAPSIdentifier	CueWord	TrialNumber	Condition	ResponseTime	VividnessRating
+24	10	2331	White	1	Other	6808	1.0
+40	10	2092	Clowns	2	Past	5875	3.0
+56	10	2224	Amusement	3	Other	7362	2.0
+72	10	CS09	Control Stimulus	4	Control	1332	3.0
+88	10	2341	Children	5	Past	7858	1.0
+104	10	2340	Laughter	6	Null	0	n/a
+120	10	2091	Friends	7	Future	10315	1.0
+136	10	2346	Waterfall	8	Other	6543	2.0
+152	10	CS14	Control Stimulus	9	Control	1085	3.0
+168	10	2399	Headache	10	Other	6952	1.0
+184	10	2150	Safe	11	Future	8297	2.0
+200	10	2272	Alone	12	Past	7750	2.0
+216	10	2205	Loss	13	Future	8308	1.0
+232	10	1601	Zoo	14	Null	0	n/a
+248	10	1112	Danger	15	Past	7882	3.0
+264	10	2216	Cooperation	16	Null	0	n/a
+280	10	CS12	Control Stimulus	17	Control	1387	2.0
+296	10	2310	Admire	18	Null	0	n/a
+312	10	2360	Home	19	Other	7166	1.0
+328	10	2160	Nurture	20	Past	9035	2.0
+344	10	2391	Outdoors	21	Future	9006	2.0
+360	10	CS16	Control Stimulus	22	Control	1432	1.0
+376	10	2191	HardWork	23	Null	0	n/a
+392	10	2312	Poverty	24	Past	8289	1.0
+408	10	2208	Celebration	25	Future	7180	2.0
+424	10	CS15	Control Stimulus	26	Control	1365	3.0
+440	10	CS11	Control Stimulus	27	Control	1271	1.0
+456	10	2130	Anger	28	Other	7083	1.0
+472	10	9421	War	29	Future	6647	3.0
+488	10	2209	Preparation	30	Null	0	n/a
