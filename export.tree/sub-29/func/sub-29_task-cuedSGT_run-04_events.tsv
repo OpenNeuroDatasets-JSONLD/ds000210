@@ -1,0 +1,31 @@
+onset	duration	IAPSIdentifier	CueWord	TrialNumber	Condition	ResponseTime	VividnessRating
+24	10	2540	Affection	1	Future	8866	1.0
+40	10	2580	Game	2	Other	7577	1.0
+56	10	2515	Fruit	3	Past	9014	1.0
+72	10	2501	Tourist	4	Null	0	n/a
+88	10	CS18	Control Stimulus	5	Control	1899	3.0
+104	10	2455	Support	6	Past	10275	2.0
+120	10	2751	PoorJudgment	7	Past	7624	1.0
+136	10	2635	Cold	8	Other	7951	1.0
+152	10	2410	Math	9	Future	9497	2.0
+168	10	CS19	Control Stimulus	10	Control	1774	2.0
+184	10	4598	Goodbye	11	Null	0	n/a
+200	10	CS23	Control Stimulus	12	Control	1976	2.0
+216	10	2745	Desperate	13	Null	0	n/a
+232	10	2590	Assistance	14	Other	9122	1.0
+248	10	3280	Dentist	15	Future	8267	1.0
+264	10	4599	Intimate	16	Future	8987	1.0
+280	10	4621	Inappropriate	17	Other	9169	1.0
+296	10	2600	Beer	18	Null	0	n/a
+312	10	2490	Leftovers	19	Past	8578	2.0
+328	10	2752	Intoxicated	20	Null	0	n/a
+344	10	CS24	Control Stimulus	21	Control	1876	1.0
+360	10	2700	Upset	22	Future	9657	2.0
+376	10	2530	Bicycle	23	Other	7752	1.0
+392	10	2702	Hunger	24	Past	7263	1.0
+408	10	2810	Barrier	25	Null	0	n/a
+424	10	CS17	Control Stimulus	26	Control	4341	3.0
+440	10	2480	Waiting	27	Future	7718	1.0
+456	10	CS22	Control Stimulus	28	Control	1716	3.0
+472	10	2487	Music	29	Other	6430	2.0
+488	10	2692	Terror	30	Past	8193	1.0
