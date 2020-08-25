@@ -1,0 +1,31 @@
+onset	duration	IAPSIdentifier	CueWord	TrialNumber	Condition	ResponseTime	VividnessRating
+24	10	CS26	Control Stimulus	1	Control	3836	2.0
+40	10	7550	Computer	2	Future	6195	1.0
+56	10	5830	Sunset	3	Other	4548	1.0
+72	10	5622	Bravery	4	Other	4321	3.0
+88	10	9417	Penalty	5	Null	0	n/a
+104	10	9220	Cemetery	6	Past	5530	2.0
+120	10	6838	Shock	7	Future	3361	1.0
+136	10	4622	Beach	8	Null	0	n/a
+152	10	8032	Skating	9	Past	4587	1.0
+168	10	8090	Olympics	10	Past	3930	2.0
+184	10	5410	Performance	11	Other	2898	1.0
+200	10	6010	Trapped	12	Null	0	n/a
+216	10	9210	Rain	13	Other	1566	1.0
+232	10	CS29	Control Stimulus	14	Control	3299	3.0
+248	10	8040	Concentration	15	Future	6624	1.0
+264	10	CS28	Control Stimulus	16	Control	2643	3.0
+280	10	5455	Navigation	17	Null	5402	1.0
+296	10	9582	Surgery	18	Past	9461	2.0
+312	10	CS27	Control Stimulus	19	Control	3251	1.0
+328	10	CS32	Control Stimulus	20	Control	6915	2.0
+344	10	6834	Change	21	Null	0	n/a
+360	10	5628	Accomplishment	22	Past	5629	1.0
+376	10	8232	Defeat	23	Future	3891	1.0
+392	10	7493	Lost	24	Other	6704	2.0
+408	10	7620	Airplane	25	Future	4791	1.0
+424	10	7325	Summer	26	Other	5426	1.0
+440	10	8490	Rollercoaster	27	Past	5412	1.0
+456	10	CS30	Control Stimulus	28	Control	2394	2.0
+472	10	8010	Exhaustion	29	Null	0	n/a
+488	10	9041	Powerless	30	Future	6541	3.0
